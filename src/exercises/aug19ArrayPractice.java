@@ -17,7 +17,7 @@ public class aug19ArrayPractice {
         }
     }
 }
-public class aug19ArrayListPractice {
+/*public class aug19ArrayListPractice {
     public static void main(String[] args) {
         int arrayList[] = {1, 1, 2, 3, 5, 8, 10, 12, 4, 33};
         int evenSum = 0;
@@ -29,4 +29,6 @@ public class aug19ArrayListPractice {
         }
         String wordArray[] = {"Hello", "Goodbye", "lucky", "cat", "Troll"};
         for(String i : wordArray.split[i])   }
-}
+} */
+
+
